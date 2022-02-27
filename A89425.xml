@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Captaine John Musgrave prisoner in Newgate. Vindicating him against the misprisians and imputed reasons of his sad imprisonment for high treason against the state. With an order, or proclamation : by the Committee of the City of London, with the Committee of Lords and Commons for safety; for listing in the late ingagement, &amp;c.</title>
+            <author>Musgrave, John, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89425</idno>
+            <idno type="STC">Wing M3147</idno>
+            <idno type="STC">Thomason E411_20</idno>
+            <idno type="STC">ESTC R19482</idno>
+            <idno type="EEBO-CITATION">99860681</idno>
+            <idno type="PROQUEST">99860681</idno>
+            <idno type="VID">161235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161235)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E411[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Captaine John Musgrave prisoner in Newgate. Vindicating him against the misprisians and imputed reasons of his sad imprisonment for high treason against the state. With an order, or proclamation : by the Committee of the City of London, with the Committee of Lords and Commons for safety; for listing in the late ingagement, &amp;c.</title>
+                  <author>Musgrave, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Richard Cotes] for John Musgrave, and are to bee sold in Newgate-market,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Musgrave, John, fl. 1654 --  Imprisonment --  Early works to 1800.</term>
+               <term>Civil rights --  Great Britain --  Early works to 1800.</term>
+               <term>Detention of persons --  Great Britain --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161235:1" rendition="simple:additions"/>
+            <p>A DECLARATION of Captaine <hi>JOHN M<g ref="char:V">Ʋ</g>SGRAVE</hi> Priſoner in NEWGATE.</p>
+            <p>Vindicating him againſt the miſpri<g ref="char:EOLhyphen"/>ſians and imputed reaſons of his ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> impriſonment for high Treaſon againſt the STATE.</p>
+            <p>With an Order, or Proclamation: By the Committee of the City of <hi>London,</hi> with the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons for ſafety: for Liſting in the late ingagement, &amp;c.</p>
+            <p>
+               <add>8ber: 23</add> LONDON, Printed for <hi>John Muſgrave,</hi> and are to bee ſold in <hi>Newg<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>-<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rket,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:161235:2"/>
+            <pb n="1" facs="tcp:161235:2"/>
+            <head>A DECLARATION of Captaine <hi>John Muſgrave</hi> Priſoner in <hi>Newgate.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Fidelity of the moſt e<g ref="char:EOLhyphen"/>minent and faithfull in the late Service for the Parliament have run under the laſh of notorious ſcandals and reproaches, is evi<g ref="char:EOLhyphen"/>dent enough beyond the neceſ<g ref="char:EOLhyphen"/>ſity of my atteſtation; under which diſgrace as my preſent Condition hath made mee an Acceſſary, ſo I cannot doubt but when my Integrity is truly manifeſted, that generall Opinion (which in the Ignorant has abuſed me) will, in the judicious find that Conſtruction may plauſibly free mee from all the dan<g ref="char:EOLhyphen"/>gers of their calumny, and I muſt confeſſe I were a Baſtard to my name, an infamy to all that love mee, and a reprobate to the Cauſe I am under; if (after a generall traduction of both the Houſes, and the parti<g ref="char:EOLhyphen"/>cular abuſes of ſome Pamphletiers,) I did not in ſome meaſure indeavour to give the prejudicate world ſome punctuall aſſurance, what Rule I have followed in all my concernments, from the firſt of my ſervice unto this minute of my commitment, not that I itch after a printed credit, or expect an Eulogy from the cryer; but finding the folly of the Preſſe ſo Epidemicall,
+<pb n="2" facs="tcp:161235:3"/>my <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rity ſhall not hinder my progreſſe in that <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>quity.</p>
+            <p>To this purpoſe I might run over a Catalogue of particulars from the very Originall of the Service; but in regard the generality of the Officers, (with whom I have ſerved) and the Impreſſe of the Houſe upon mee, in reſpect of that ſmall pay which upon the peruſall of ſeverall Certificates was (in order) al<g ref="char:EOLhyphen"/>lotted mee, may anticipate a part of ſatisfaction to thoſe who were ignorant of mee; and for ſuch as tru<g ref="char:EOLhyphen"/>ly knew mee, I need no prevention, ſince for the moſt part wee marched hand in hand together, in the joy<g ref="char:EOLhyphen"/>full accompliſhment of our Commands.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon the point.</hi> The Crime I am accus'd of, doth onely prove a more then common conſtancy in the adherence to thoſe Principles, which at firſt gave life and beeing to our Armes; in the maintainance of which if my blood or my paines had been too deare, the cenſure I am under had been too calme; but when the iſſue of our toyle and ſweat returned us home, and that expected Salary (which hath rare<g ref="char:EOLhyphen"/>ly been awanting either to ſucceſſe or perſeverance) was not onely delayed us, but wee were alſo ingag'd, in our attendance unto ſuch patience and extremity; That it was the onely wonder the ſtones were mute; which had they been ſenſible had been leſſe pardonable then the inſurrection of the Apprentices.</p>
+            <p>Of whom ſince it is my occaſion to be a mentioner, and with whom I am accuſed to be a partaker, I muſt neceſſarily here proteſt againſt my moſt envious and ſerious obſerver, For my preſence in their company
+<pb n="3" facs="tcp:161235:3"/>will prove neither my intention or action, then my con<g ref="char:EOLhyphen"/>dition <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> divers reſpects may admit of a contrary con<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>The more ſerious Traduction (if ſo I may call it) once formerly my joy, now made my Scandall. For if thoſe invitations of the Prerogative, the Prote<g ref="char:EOLhyphen"/>ſtant Religion, the Priviledges of Parliament, the Li<g ref="char:EOLhyphen"/>berty of the Subject, &amp;c. Were out of their ſeveral<g ref="char:EOLhyphen"/>ties moulded into an unity of the <hi>Covenant,</hi> and the impoſition of that, not onely made Nationall, but Sa<g ref="char:EOLhyphen"/>cra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tall: Why ſhould an adherency be my Crime, ſince the various hazzard of my life upon it, abetted by the ſtampe of your legallity) did make it apparantly Religious, as alſo Conſcionable. If this ſuffice not, but there needs muſt bee a neceſſity for ſome expiation by a Preſident. Why in the Speakers abſence, ſince the ſitting was declared no Parliament, in caſe of any <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ont or aſſault, muſt it then bee made high Trea<g ref="char:EOLhyphen"/>ſon, and why taken from the Shrubs and not the Oake, from the ſprig and not the root, ſince the in<g ref="char:EOLhyphen"/>gagement beeing imputed notorious, and of eminence, it requires an Annalogy in the puniſhment; unleſſe ac<g ref="char:EOLhyphen"/>cording to the Fable, as Dogs have been beaten in the preſence of Lyons, onely for the abatement of their naturall fierceneſſe; and as boyes have been whipt to intimate a duty to the youthfulneſſe of Princes: So am I probably to bee diſciplin'd out of a life, meerely for a rule of Obedience to ſuch, whom in the height, of Magiſtracy, endeavouring my incouragement among thouſand others in conjunction with them; they
+<pb n="4" facs="tcp:161235:4"/>muſt be taught a dutifull Retractation of their errors by the ſubordination of my ſufferance.</p>
+            <p>For my accuſation of a power in the diſpoſition of Offices and Commands within the Tower, is onely an allegation from the frivolous vanity of thoſe who are ſimply pretenders to my perſecution; for Places of that nature, and conſideration, are rarely diſpen<g ref="char:EOLhyphen"/>ſible to other perſons then of ſuch eminence and tran<g ref="char:EOLhyphen"/>ſcendency, that could hardly in juſtice admit mee ſerviceable upon the ſmalleſt reſentment of my diſabili<g ref="char:EOLhyphen"/>ties; and therefore my accuſer, was ſo farre from the ſence of an abuſe in this; that inſtead of my ſhame, hee did ignorantly indeavour the advancement of my power and credit.</p>
+            <p>As for ſpreading of papers in Churches, it was ne<g ref="char:EOLhyphen"/>ver my Crime nor the tearing of them; in which place to my beſt underſtanding, I have endeavoured to ſhun Superſtition, and to expreſſe true devotion, as I con<g ref="char:EOLhyphen"/>ceived might bee moſt acceptable to God, and inoffen<g ref="char:EOLhyphen"/>ſive to man.</p>
+            <p>As for my beeing in that bloody buſineſſe at <hi>Guild<g ref="char:EOLhyphen"/>hall,</hi> I was not there, neither can I bee juſtly taxed for having any hand in that buſineſſe, as by many thouſands do juſtly appeare.</p>
+            <p>For other accuſations (as I want them not) they are ill applyed; in regard beeing no way conſcious of them, they might have had reference to ſuch a creature, whoſe patience and loynes had received pre<g ref="char:EOLhyphen"/>paration for ſuch an injury; ſeeing the affliction of my bondage, and the want of livelyhood ſo prevaile up<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:161235:4"/>mee, that that advancement of griefe might better have ſtayed with the contrivers of it to abate the exorbi<g ref="char:EOLhyphen"/>tancies of their jollity.</p>
+            <p>To conclude, For a teſtimony to thoſe that may be ignorant (for thoſe that know mee theſe are imper<g ref="char:EOLhyphen"/>tinent) I deſire this ſatisfaction bee duely pondered. That in all the Traductions that ayme at my life (if either their verity or weight could juſtly touch me) the continuance of it would bee a vanity to my ſelfe; But ſince the uprightneſſe of my Conſcience, and the recollections of my heart, aſſure of an intenſive inno<g ref="char:EOLhyphen"/>cence; I ſhall henceforth with leſſe trouble and more liberty, imbrace that thraldome, which in concluſion can admit of no other reſolution, then either preſent Martyrdome or freedome.</p>
+            <closer>
+               <signed>JOHN MVSGRAVE.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <opener>
+               <dateline>
+                  <date>3 Auguſti, 164.</date>
+               </dateline>
+            </opener>
+            <head>By the Committee of the Militia for the City of <hi>London,</hi> &amp;c.</head>
+            <p>WHereas there have been divers tumultuous and diſorderly Aſſemblies within the Cities of <hi>London,</hi> and <hi>Weſtminſter,</hi> to the endangering the Parlia<g ref="char:EOLhyphen"/>ment and City, and parts adjacent: For prevention ther<g ref="char:EOLhyphen"/>of, we the Committee of the <hi>Militia</hi> aforeſaid, accor<g ref="char:EOLhyphen"/>ding to the duty of the truſt repoſed in us, do hereby ſtrictly charge and command, That no Inhabitants, In<g ref="char:EOLhyphen"/>dwellers,
+<pb n="6" facs="tcp:161235:5"/>or Strangers, either on Houſe or on Foot, ſhall come to<g ref="char:EOLhyphen"/>gether in any Aſſemblies whatſoever, with Arms or without Arms, except ſuch as the Committee of Lords and Commons for ſafety, or this Committee ſhall raiſe for the ſafety of the King, Parliament, and City. Now if after publication hereof, any Perſons ſhall preſume to aſſemble, or come together in any tumultuous way, under any pretence whatſoever; That then, and in ſuch caſe all Colonells, Captaines, and other Officers and Souldiers are hereby required, according to their Commiſſions, to ſuppreſſe and diſperſe the ſame, and in caſe of reſiſtance, them to ſight with, kill and ſlay at Enemies to the King, Parliament, and City, and di<g ref="char:EOLhyphen"/>ſturbers of the Peace of the whole Kingdome. A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to avoid effuſion of blood, all Houſe-keepers and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thers in caſe of ſuch <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>lts as aforeſaid <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>And that all foot Souldiers that will <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſervation of the King, Parliament, and City, let t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pair<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the</hi> New-Artillery <hi>ground where they ſhall b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Liſted, Armed, and paid ſev<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhillings</hi> per w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered that this Procl<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation be f<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>with Printed and publiſhed, and Proclai<g ref="char:EOLhyphen"/>med by the Provoſt M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſhall by ſoun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpet.</p>
+            <closer>
+               <signed>
+                  <hi>Tho. Pa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r,</hi> Clerk to the ſaid Committee.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Lo<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n</hi> Pri<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d by <hi>Ri<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rd C<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
